@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "230160892173",
+    "project_id": "doanflutter-2e7c5",
+    "storage_bucket": "doanflutter-2e7c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230160892173:android:7532ee8972785b72c47044",
+        "android_client_info": {
+          "package_name": "com.muhammadali.e_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230160892173-cd12oog512qomtf5n3ek5p8ikte3re10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQbwGIVN9NuwOT6pIDSBAqU-xiaiTLnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230160892173-cd12oog512qomtf5n3ek5p8ikte3re10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
